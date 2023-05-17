@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d7cd740178d4dcabec4edd3c071cd0a, type: 3}
+  m_Name: materials
+  m_EditorClassIdentifier: 
+  objs:
+  - eye: 0
+    name: black
+    obj: {fileID: 2100000, guid: c272a6e97b2e602459557e2582626161, type: 2}
+  - eye: 0
+    name: gold
+    obj: {fileID: 2100000, guid: cc4ea71fd18e0f14bb02d6a0cd389237, type: 2}
+  - eye: 0
+    name: green
+    obj: {fileID: 2100000, guid: f8c55253dc3a0c34baa5cca757123244, type: 2}
+  - eye: 0
+    name: pink
+    obj: {fileID: 2100000, guid: 647ea3f7927eabc41ab4b4b33f7b3032, type: 2}
+  - eye: 0
+    name: blue
+    obj: {fileID: 2100000, guid: 8d8009a48a723c644978bc1a44df414a, type: 2}
+  - eye: 0
+    name: red
+    obj: {fileID: 2100000, guid: 755ff79c6a9063b498933d561cdda11b, type: 2}
+  - eye: 0
+    name: silver
+    obj: {fileID: 2100000, guid: af472c0027da70a49a1b3aee45299dc0, type: 2}
+  - eye: 0
+    name: 
+    obj: {fileID: 2100000, guid: fcf3ca41ff6d8d84b89b12faa399d8fd, type: 2}
